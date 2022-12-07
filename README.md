@@ -1,4 +1,4 @@
-# co78e4ad2aa4e7fe740d06647
+# Scrimba M2 Business Card project
 
 Quick start:
 
